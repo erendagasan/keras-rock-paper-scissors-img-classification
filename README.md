@@ -1,1 +1,1 @@
-# keras-rock-paper-scissors-img-classification
+# keras rock paper scissors image classifiacation with tensorflow dataset
